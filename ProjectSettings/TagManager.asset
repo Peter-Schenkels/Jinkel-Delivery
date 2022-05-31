@@ -7,6 +7,7 @@ TagManager:
   - pizza
   - Scooter
   - Floor
+  - Border
   layers:
   - Default
   - TransparentFX
